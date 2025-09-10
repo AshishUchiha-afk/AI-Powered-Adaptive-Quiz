@@ -43,10 +43,6 @@ At the end, it recommends personalized YouTube learning videos—making learning
 **Your key is required for all AI features.**  
 🚨 Never commit your `.env` file or API key to public repos!
 
-### 4️⃣ Launch the App
-
-- Open http://localhost:8501 to use the app.
-
 ---
 
 ## 🧑‍🎓 Use Cases
