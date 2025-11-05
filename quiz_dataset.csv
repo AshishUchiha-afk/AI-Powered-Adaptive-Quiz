@@ -1,0 +1,19 @@
+question,option1,option2,option3,option4,correct_answer,difficulty,topic
+What is 2+2?,3,4,5,6,2,Easy,Math
+What is 15/3?,4,5,6,7,2,Easy,Math
+What is 12*12?,124,144,134,154,2,Medium,Math
+Solve: (25 - 5) / 5,2,3,4,5,1,Medium,Math
+What is the derivative of x^2?,x,2x,x^3,1,2,Hard,Math
+What is the integral of 2x?,x^2,2x^2,2x^3,x,1,Hard,Math
+Which keyword is used to define a function in Python?,def,function,lambda,define,1,Easy,Python
+Which data type is mutable in Python?,tuple,string,list,int,3,Easy,Python
+"What is the output of len([1,2,3])?",2,3,4,5,2,Medium,Python
+Which of these is used for comments in Python?,#,//,<!-->,--,1,Medium,Python
+What is the output of: 2 ** 3 ?,6,8,9,12,2,Hard,Python
+Which of these is not a Python framework?,Django,NumPy,Flask,FastAPI,2,Hard,Python
+Who is known as the father of computers?,Charles Babbage,Alan Turing,Thomas Edison,Nikola Tesla,1,Easy,GK
+What is the capital of France?,Berlin,Madrid,Paris,Rome,3,Easy,GK
+Which planet is known as the Red Planet?,Earth,Mars,Venus,Jupiter,2,Medium,GK
+In which year did World War II end?,1942,1945,1947,1950,2,Medium,GK
+Which is the largest ocean on Earth?,Atlantic,Indian,Arctic,Pacific,4,Hard,GK
+Who discovered penicillin?,Einstein,Alexander Fleming,Newton,Marie Curie,2,Hard,GK

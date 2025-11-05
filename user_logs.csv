@@ -1,0 +1,10 @@
+topic,difficulty,answered_correct,choice,question_id
+World War I,Easy,0,2,World War I_Easy_0
+World War I,Easy,1,2,World War I_Easy_1
+World War I,Easy,0,3,World War I_Easy_0
+World War I,Easy,1,2,World War I_Easy_0
+World War I,Easy,0,3,World War I_Easy_1
+World War II,Medium,1,2,World War II_Medium_2
+World War I,Easy,1,4,World War I_Easy_3
+World War I,Easy,1,4,World War I_Easy_4
+World War I,Easy,1,4,World War I_Easy_5
